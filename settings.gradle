@@ -1,0 +1,8 @@
+rootProject.name = 'Joker'
+include 'Joker-Core'
+include 'Joker-Server'
+include 'Joker-Shell'
+include 'Joker-SDK'
+include 'Joker-NIO'
+include 'Joker-NetWork'
+
